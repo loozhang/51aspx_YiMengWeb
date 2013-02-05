@@ -27,3 +27,6 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+DB_51aspx/hnkaishan.mdf
+DB_51aspx/hnkaishan_log.ldf
+.gitignore
