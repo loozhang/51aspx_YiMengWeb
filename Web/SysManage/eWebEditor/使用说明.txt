@@ -1,0 +1,13 @@
+    eWebEditor以其调用简单，使用方便，功能强大得到了广大用户的青睐，但eWebEditor却没有asp.net版本的功能完全免费的版本，eWebEditor现在推出eWebEditor简体中文精简版(V4.60)的免费版本支持asp.net，但是却不能上传，所以我把上传功能添加进去了。
+
+使用说明：
+   
+    直接将eWebEditorExtension文件夹拷贝到你的网站，然后在需要调用的地方调用，调用方法见Default.aspx页面。
+
+    在eWebEditorExtension\config.config设置相关上传配置
+
+
+   现在只是完成了相关上传的功能，许多功能还不全，将会在后续之中不断完善!
+
+   请关注http://Jclman.bokee.com
+   作者：渝满江城

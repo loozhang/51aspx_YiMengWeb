@@ -1,0 +1,97 @@
+
+
+BODY {
+	BACKGROUND: #ddeef2; 
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+table {
+	font: 12px ËÎÌו;
+	color: #192e32;
+}
+
+A:visited {
+	COLOR: #335b64; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #335b64; TEXT-DECORATION: none
+}
+A:hover {
+	color: #eb8a3d;
+	text-decoration: none;
+}
+A:active {
+	color: #eb8a3d;
+	text-decoration: none;
+}
+H1 {
+	border-right: #bbdde5 1px solid;
+	border-left: #bbdde5 1px solid;
+	border-top: #bbdde5 1px solid;
+	border-bottom: #bbdde5 1px solid;
+	font-size: 14px;
+	background: #f4fafb;
+	padding-bottom: 10px;
+	margin: 0px 0px 10px;
+	color: #9cacaf;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+H1 A:visited {
+	color: #9cacaf;
+}
+H1 A:link {
+	COLOR: #9cacaf
+}
+H1 A:hover {
+	COLOR: #eb8a3d
+}
+
+#footer
+{
+	border-right: #bbdde5 1px solid;
+	padding-right: 15px;
+	border-top: #bbdde5 1px solid;
+	padding-left: 15px;
+	background: #f4fafb;
+	padding-bottom: 15px;
+	margin: 10px 0px;
+	border-left: #bbdde5 1px solid;
+	color: #9cacaf;
+	padding-top: 15px;
+	border-bottom: #bbdde5 1px solid;
+	text-align: center;
+	font-size: 12px;
+}
+.main-div
+{
+	border-right: #bbdde5 1px solid;
+	padding-right: 10px;
+	border-top: #bbdde5 1px solid;
+	padding-left: 10px;
+	background: #f4fafb;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-left: #bbdde5 1px solid;
+	padding-top: 10px;
+	border-bottom: #bbdde5 1px solid;	
+	text-align:center;
+}
+.main-div TABLE {
+	width: 100%;
+}
+.form-div {
+	BORDER-RIGHT: #bbdde5 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #bbdde5 1px solid; PADDING-LEFT: 5px; BACKGROUND: #f4fafb; PADDING-BOTTOM: 5px; MARGIN: 0px 0px 10px; BORDER-LEFT: #bbdde5 1px solid; COLOR: #808080; PADDING-TOP: 5px; BORDER-BOTTOM: #bbdde5 1px solid
+}
+
+.form-div IMG {
+	VERTICAL-ALIGN: middle
+}
+
+INPUT.button {
+	BORDER-RIGHT: #2d5082 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #2d5082 1px solid; PADDING-LEFT: 5px; BACKGROUND: url(../images/button_bg.gif) repeat-x; PADDING-BOTTOM: 0px; MARGIN: 2px; BORDER-LEFT: #2d5082 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #2d5082 1px solid
+}
+

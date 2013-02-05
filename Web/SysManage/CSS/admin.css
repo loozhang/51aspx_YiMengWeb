@@ -1,0 +1,22 @@
+﻿body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+TABLE {
+	font-size: 12px;
+	color: #192e32;
+	font-family: 宋体;
+}
+
+A:visited {COLOR: #335b64; TEXT-DECORATION: none }
+A:link {COLOR: #335b64; TEXT-DECORATION: none }
+A:hover{color: #eb8a3d; text-decoration: none;}
+A:active {color: #eb8a3d; text-decoration: none;}
+/*顶端导航*/
+.top-dh { COLOR: #ffffff;}
+.top-dh A:visited { COLOR: #ffffff; TEXT-DECORATION: none}
+.top-dh A:link { COLOR: #ffffff; TEXT-DECORATION: none}
+.top-dh A:hover { COLOR: #f5c29a }
+

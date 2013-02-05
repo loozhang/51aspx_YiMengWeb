@@ -1,0 +1,232 @@
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+table {
+	font-family: "宋体";
+	font-size: 12px;
+}
+
+img {
+	border:0px;
+}
+
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+}
+
+
+*{margin:0;}
+
+.dh a {
+	display: block;
+	width: 85px;
+	text-align: center;
+}
+
+.dh1 {
+	float: left;
+	width: 85px;
+	background-image: url(images/dh_01.jpg);
+	background-position: center;
+	height: 35px;
+	line-height: 35px;
+}
+.dh1 a:link{
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url(images/dh_01.jpg);
+	height: 35px;
+	width: 85px;
+}
+
+.dh1 a:visited{
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url(images/dh_01.jpg);
+	height: 35px;
+	width: 85px;
+}
+
+.dh1 a:hover{
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF000;
+	text-decoration: none;
+	background-image: url(images/dh_03.jpg);
+	height: 35px;
+	width: 85px;
+}
+
+.dh2 {
+	width:10px;
+	height: 35px;
+	line-height:35px;
+	background-image:url(images/dh_02.jpg);
+	float: left;
+}
+
+.bt1 {
+	color:#0f8c82;
+    font-weight:bold;
+    font-size:14px;
+}
+
+.bt2 {
+	color:#FFFFFF;
+    font-weight:bold;
+    font-size:14px;
+    padding-left:15px;
+}
+
+.bbb {
+	font-family: "宋体";
+	font-size: 14px;
+	font-weight:bold;
+	color: #CC0000;
+}
+
+
+.red {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FF0000;
+}
+
+
+.bian {
+	border: 1px solid #C8C8C8;
+}
+
+.tu-z {
+	float: left;
+	margin-right: 10px;
+}
+.tu-tc {
+	margin-right: 10px;
+}
+
+.tu-div {
+	margin: 0px;
+	padding: 4px;
+	border: 1px solid #CCCCCC;
+}
+
+.tu-tc4 {
+	margin: 4px;
+}
+
+.tu-cp {
+	margin: 10px;
+}
+
+
+.bai-h {
+	font-family: "宋体";
+	font-size: 12px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+
+.bai {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.bai a:link {
+	text-decoration: none;
+	color: #ffffff;
+}
+.bai a:hover {
+	color: #ff0000;
+	text-decoration: none;
+}
+.bai a:visited 
+{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.end {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #008746;
+	line-height:24px;
+}
+
+.end a:link {
+	color: #008746;
+	text-decoration: none;
+}
+.end a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+}
+.end a:visited {
+	color: #008746;
+	text-decoration: none;
+}
+.end a:active {
+	text-decoration: none;
+}
+
+
+#abc
+{
+ display:none;	
+}
+
+
+.div0 {
+	position: absolute;
+	font-size:12px;
+	z-index:1000;
+	font-family: "宋体";
+	color: #000000;
+}
+.newtb
+ {
+ 	border-color:#01B3FD;
+ 	color: #FFFFFF;
+ 	}
+.newtd1
+{
+	width: 100px; 
+	height: 20px; 
+	color: #FFFFFF; 
+	border-color :#01B3FD
+	}
+.newtd2
+{
+	border-color :#01B3FD
+	}	
+.newlal
+{
+	color:White ;
+	 
+	}
+
+
+/*怡笑颜开 设计制作*/
